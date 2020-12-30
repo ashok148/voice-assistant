@@ -11,4 +11,4 @@ CURRENT FEATURES :
 
 Find location of a place on google maps Speak out the time. Implementable features :
 
-Book an ola cab Give weather info Make a google search
+Make a google search,open youtube, wikipedia search, play music and perform many more functionalities.
